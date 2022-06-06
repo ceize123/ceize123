@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yi-tso-kuo/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="yi-tso-kuo" /></a>
+<a href="https://www.linkedin.com/in/yi-tso-kuo/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="yi-tso-kuo" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
